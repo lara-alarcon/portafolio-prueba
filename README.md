@@ -43,10 +43,12 @@
 
 ---
 
-<h2 align="center">📸 Vistas del Portafolio</h2>
+<h2 align="center">📸 Vista principal del Portafolio</h2>
 
 <p align="center">
   <img width="1860" height="1014" alt="Vista del Portafolio" src="https://github.com/user-attachments/assets/02488df5-2f07-4037-bbf9-81e7667a4d07" />
   <br>
+  <br>
+  <h2 align="center">📸 Sección sobre mí</h2>
   <img width="1860" height="1063" alt="Sección sobre mí" src="https://github.com/user-attachments/assets/e8062a6a-aac3-40ba-b1c0-9ed709e8c384" />
 </p>
