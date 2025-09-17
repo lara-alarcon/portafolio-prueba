@@ -46,9 +46,7 @@
 <h2 align="center">📸 Vistas del Portafolio</h2>
 
 <p align="center">
-  <img alt="Vista del Portafolio" width="1860" height="1014 src="https://github.com/user-attachments/assets/7715d0c0-6e37-42d5-8eee-87c009a6b256" />
-/>
+  <img alt="Vista del Portafolio" width="1860" height="1014 src="https://github.com/user-attachments/assets/d829d6c7-c326-4b2c-ac83-84b2e53724cd"/>
   <br>
-  <img alt="Sección sobre mí" width="1860" height src="https://github.com/user-attachments/assets/26deefa0-d3f9-491e-85be-d0f846141ade" />
- />
+  <img alt="Sección sobre mí" width="1860" height="1014 src="https://github.com/user-attachments/assets/26deefa0-d3f9-491e-85be-d0f846141ade"/>
 </p>
